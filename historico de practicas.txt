@@ -1,0 +1,18 @@
+    1  history
+    2  clear
+    3  git config --global user.name 'Raylú Sifontes'
+    4  git config --global user.email 'sulyar@gmail.com'
+    5  git config user.name
+    6  git config user.email
+    7  mkdir TOTI
+    8  ls
+    9  cd toti
+   10  git init
+   11  echo 'adicionando participantes' > participantes.txt
+   12  cat
+   13  git status
+   14  git add participantes.txt
+   15  git status
+   16  git commit -m 'participantes'
+   17  git status
+   18  history > 'historico de practicas.txt'

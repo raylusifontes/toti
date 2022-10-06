@@ -1,6 +1,6 @@
 # Aprendendo a usar o Git
 
 
-# Com a Toti
+## Com a Toti
 
 O que foi que eu aprendi aqui?
